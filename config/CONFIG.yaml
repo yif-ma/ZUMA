@@ -1,0 +1,21 @@
+image_size: 336
+point_size: 336
+seed: 111
+
+test_dataset: ""
+test_data_path: ""
+test_save_path: "./results/"
+
+test_features_list: [6, 12, 18, 24]
+test_depth: 9
+test_n_ctx: 12
+test_t_n_ctx: 4
+test_seed: 111
+test_sigma: 4
+beta: 0.7
+test_weights: [0.4, 0.3, 0.3]
+
+p0: 1
+p1: 154
+n0: 1
+n1: 88
