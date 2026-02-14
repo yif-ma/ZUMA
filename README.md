@@ -1,7 +1,7 @@
 # ZUMA sees the unseen — across modalities, without supervision.
 > [**TPAMI 2026**] [**ZUMA: Training-free Zero-shot Unified Multimodal Anomaly Detection**](https://ieeexplore.ieee.org/document/11367454)
 >
-> Authors: Yunfeng Ma, Min Liu*, Shuai Jiang, Jingyu Zhou, Yuan Bian, Xueping Wang, Yaonan Wang.
+> Authors: Yunfeng Ma, Min Liu, Shuai Jiang, Jingyu Zhou, Yuan Bian, Xueping Wang, Yaonan Wang.
 
 
 
